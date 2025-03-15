@@ -22,5 +22,5 @@ The website should start on [localhost](https://localhost:5173) once you have fi
 ## Contributors
 
 - [@trollmeight](https://www.github.com/trollmeight)
-- [@cnrad](https://www.github.com/cnard)
+- [@cnrad](https://www.github.com/cnrad)
 
