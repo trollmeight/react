@@ -15,9 +15,9 @@ cd react
 Once the task is finished, write inside of your terminal:
 ```bash
 npm install
-npm run dev
+npm build
 ```
-The website should start on [localhost](https://localhost:5173) once you have finished that process.
+The HTML files for the website have been compiled successfully. You can now use any other service to host the HTML files onto a domain.
     
 ## Contributors
 
