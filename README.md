@@ -15,7 +15,7 @@ cd react
 Once the task is finished, write inside of your terminal:
 ```bash
 npm install
-npm build
+npm run build
 ```
 The HTML files for the website have been compiled successfully. You can now use any other service to host the HTML files onto a domain.
     
