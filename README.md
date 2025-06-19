@@ -22,5 +22,3 @@ The HTML files for the website have been compiled successfully. You can now use 
 ## Contributors
 
 - [@trollmeight](https://www.github.com/trollmeight)
-- [@cnrad](https://www.github.com/cnrad)
-
