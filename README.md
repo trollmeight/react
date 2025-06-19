@@ -18,6 +18,7 @@ npm install
 npm run build
 ```
 The HTML files for the website have been compiled successfully. You can now use any other service to host the HTML files onto a domain.
+
 > **Warning**
 > I have noticed that there is an error where a "'" appears in the corner, remove it from the HTML script after building.
     
