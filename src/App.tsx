@@ -65,7 +65,7 @@ const App: React.FC = () => {
           <a href="https://bsky.app/profile/trollmeight.bsky.social" title="Bluesky">
             <i className="fa-brands fa-bluesky"></i>
           </a>
-          <a href="https://discordapp.com/users/1266754182082461751" title="Discord">
+          <a href="https://discordapp.com/users/" title="Discord">
             <i className="fa-brands fa-discord"></i>
           </a>
         </div>
