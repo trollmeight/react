@@ -1,8 +1,7 @@
 
 # React + Vite + TSX
 
-A repository of my React website that uses Lanyard API to fetch real-time Discord Activites. 
-
+My personal website built in React.
 
 ## Executing the Webpage
 
